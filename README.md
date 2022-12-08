@@ -71,7 +71,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Soon you will find a live demo link here:
+> <a href="https://tanveerisonline.github.io/todo-list.github.io/dist/"><h3>Live Demo Link</h3></a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -116,6 +116,8 @@ Use npm install after cloning this project
 You can deploy this project using:
 
 Github Pages.
+
+<a href="https://tanveerisonline.github.io/todo-list.github.io/dist/"><h3>Live Demo Link</h3></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
